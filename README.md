@@ -86,13 +86,9 @@ The project includes data cleaning and preparation before analysis, including da
 ## 💡 Key Business Insights
 
 * 🎯 **Target achievement:** Overall net sales reached **100.31% of the annual target**, slightly exceeding the ₹79.2 lakh target.
-* 
 * 📦 **Product performance:** **Printer** generated the highest net sales and profit, while **Monitor** delivered the highest product profit margin at **28.70%**.
-* 
 * 👥 **Salesman performance:** **Alok Pal** led in net sales and profit, while **Rizwan Khan** achieved the highest profit margin at **28.90%**.
-* 
 * 🏙️ **Geographic performance:** **Jabalpur** recorded the highest city-level net sales at approximately **₹8.89 lakh**.
-* 
 * 📋 **Order performance:** **1,395 of 1,566 orders were completed**, representing approximately **89.1%** of all orders.
 
 
