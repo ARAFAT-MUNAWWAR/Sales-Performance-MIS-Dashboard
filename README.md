@@ -1,6 +1,9 @@
 # 📊 Sales Performance & MIS Dashboard
 
 An interactive **Microsoft Excel Sales Performance & MIS Dashboard** created for a simulated retail company, **Naxora Retail**, to demonstrate practical skills in data cleaning, business analysis, MIS reporting and dashboard development.
+## 📸 Dashboard Preview
+
+![Executive Dashboard](Dashboard.jpg)
 
 ## 📌 Project Overview
 
