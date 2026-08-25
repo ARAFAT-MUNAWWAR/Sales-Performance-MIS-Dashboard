@@ -1,7 +1,7 @@
 # 📊 Sales Performance & MIS Dashboard
 
 An interactive **Microsoft Excel Sales Performance & MIS Dashboard** created for a simulated retail company, **Naxora Retail**, to demonstrate practical skills in data cleaning, business analysis, MIS reporting and dashboard development.
-## 📸 Dashboard Preview
+## 📸 Project Preview
 
 ![Executive Dashboard](./Dashboard.JPG)
 
@@ -12,6 +12,17 @@ An interactive **Microsoft Excel Sales Performance & MIS Dashboard** created for
 ## 👥 Salesman Performance
 
 ![Salesman Performance](./Salesman_Performance.JPG)
+
+## ⭐ Key Features
+
+- 🧹 Data cleaning and preparation
+- 📊 KPI-based MIS dashboard
+- 📈 Sales and profit trend analysis
+- 📦 Product performance analysis
+- 👥 Salesman performance analysis
+- 🎯 Target achievement tracking
+- 🔄 Interactive slicers and timeline
+- 📋 PivotTable and PivotChart-based reporting
 
 ## 📌 Project Overview
 
@@ -94,3 +105,6 @@ The company, customer and transaction data used in this project are fictional/si
 ## 👤 Created By
 
 **Arafat Munawwar**
+---
+
+⭐ If you found this project useful, feel free to explore the workbook and share your feedback.
