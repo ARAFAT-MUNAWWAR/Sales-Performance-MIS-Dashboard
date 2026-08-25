@@ -5,6 +5,14 @@ An interactive **Microsoft Excel Sales Performance & MIS Dashboard** created for
 
 ![Executive Dashboard](./Dashboard.JPG)
 
+## 📦 Product Performance
+
+![Product Performance](./Product_Performance.JPG)
+
+## 👥 Salesman Performance
+
+![Salesman Performance](./Salesman_Performance.JPG)
+
 ## 📌 Project Overview
 
 This project transforms raw sales transaction data into an interactive management reporting solution using Excel.
